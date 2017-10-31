@@ -1,3 +1,48 @@
-/*
- * Estilos de tu proyecto
- */
+/* */
+/* CLASES REUTILIZABLES */
+/* Texto en blanco */
+.t-w {
+  color: #fff;
+}
+/* Texto en azul de formulario */
+.t-p {
+  color: #728099;
+}
+.upper-case{
+  text-transform: uppercase;
+}
+/* CLASES PRINCIPALES*/
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+/* HEADER*/
+header{
+  width: 100%;
+  position: fixed;
+  z-index: 10000;
+  top: 0;
+  background-color: blue;
+}
+.logo {
+  font-size: 18px;
+}
+.header ul {
+  display: inline-block;
+  list-style: none;
+}
+.header li{
+  float: left;
+  padding: 5px;
+  margin-left: 10px;
+  font-size: 16px;
+}
+.header li a{
+  text-decoration: none;
+}
+/* SECCION MAIN*/
+.main {
+  background-image: url(https://cdn.lyft.com/brochure/homepage-hero-poster.8ec795d5.jpg);
+  margin-top: 300px;
+}
