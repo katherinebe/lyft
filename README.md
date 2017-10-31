@@ -90,3 +90,11 @@ Este reto será evaluado sobre lo siguiente:
 * Indentación
 * Archivo `README.md` actualizado y correctamente redactado
 * Uso de comentarios para hacer tu código más legible
+
+Plan de accion
+Estructurar el html basico 20min
+Implementar header en htmL y CSS 20 min
+Colocar fondo y tipografia 20min
+Implementar el formulario 20 min
+Implementar colocacion de video y texto al costado 40min
+Implementar Footer 1h
